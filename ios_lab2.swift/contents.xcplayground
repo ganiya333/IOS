@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1'/>
+        <page name='2'/>
+        <page name='3'/>
+        <page name='4'/>
+        <page name='medium_1'/>
+        <page name='medium_2'/>
+        <page name='medium_3'/>
+        <page name='hard_1'/>
+        <page name='hard_2'/>
+        <page name='hard_3'/>
+    </pages>
+</playground>
