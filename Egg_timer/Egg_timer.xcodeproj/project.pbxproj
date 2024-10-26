@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		B7A6F63F2CCC7F8200097D75 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B7A6F6202CCC7F7F00097D75 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B7A6F6272CCC7F8000097D75;
+			remoteInfo = Egg_timer;
+		};
+		B7A6F6492CCC7F8200097D75 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B7A6F6202CCC7F7F00097D75 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B7A6F6272CCC7F8000097D75;
+			remoteInfo = Egg_timer;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B7A6F6282CCC7F8000097D75 /* Egg_timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Egg_timer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7A6F63E2CCC7F8200097D75 /* Egg_timerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Egg_timerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7A6F6482CCC7F8200097D75 /* Egg_timerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Egg_timerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B7A6F6502CCC7F8200097D75 /* Exceptions for "Egg_timer" folder in "Egg_timer" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = B7A6F6272CCC7F8000097D75 /* Egg_timer */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		B7A6F62A2CCC7F8000097D75 /* Egg_timer */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				B7A6F6502CCC7F8200097D75 /* Exceptions for "Egg_timer" folder in "Egg_timer" target */,
+			);
+			path = Egg_timer;
+			sourceTree = "<group>";
+		};
+		B7A6F6412CCC7F8200097D75 /* Egg_timerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Egg_timerTests;
+			sourceTree = "<group>";
+		};
+		B7A6F64B2CCC7F8200097D75 /* Egg_timerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Egg_timerUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B7A6F6252CCC7F8000097D75 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7A6F63B2CCC7F8200097D75 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7A6F6452CCC7F8200097D75 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B7A6F61F2CCC7F7F00097D75 = {
+			isa = PBXGroup;
+			children = (
+				B7A6F62A2CCC7F8000097D75 /* Egg_timer */,
+				B7A6F6412CCC7F8200097D75 /* Egg_timerTests */,
+				B7A6F64B2CCC7F8200097D75 /* Egg_timerUITests */,
+				B7A6F6292CCC7F8000097D75 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B7A6F6292CCC7F8000097D75 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B7A6F6282CCC7F8000097D75 /* Egg_timer.app */,
+				B7A6F63E2CCC7F8200097D75 /* Egg_timerTests.xctest */,
+				B7A6F6482CCC7F8200097D75 /* Egg_timerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B7A6F6272CCC7F8000097D75 /* Egg_timer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B7A6F6512CCC7F8200097D75 /* Build configuration list for PBXNativeTarget "Egg_timer" */;
+			buildPhases = (
+				B7A6F6242CCC7F8000097D75 /* Sources */,
+				B7A6F6252CCC7F8000097D75 /* Frameworks */,
+				B7A6F6262CCC7F8000097D75 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				B7A6F62A2CCC7F8000097D75 /* Egg_timer */,
+			);
+			name = Egg_timer;
+			packageProductDependencies = (
+			);
+			productName = Egg_timer;
+			productReference = B7A6F6282CCC7F8000097D75 /* Egg_timer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B7A6F63D2CCC7F8200097D75 /* Egg_timerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B7A6F6562CCC7F8200097D75 /* Build configuration list for PBXNativeTarget "Egg_timerTests" */;
+			buildPhases = (
+				B7A6F63A2CCC7F8200097D75 /* Sources */,
+				B7A6F63B2CCC7F8200097D75 /* Frameworks */,
+				B7A6F63C2CCC7F8200097D75 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B7A6F6402CCC7F8200097D75 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B7A6F6412CCC7F8200097D75 /* Egg_timerTests */,
+			);
+			name = Egg_timerTests;
+			packageProductDependencies = (
+			);
+			productName = Egg_timerTests;
+			productReference = B7A6F63E2CCC7F8200097D75 /* Egg_timerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B7A6F6472CCC7F8200097D75 /* Egg_timerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B7A6F6592CCC7F8200097D75 /* Build configuration list for PBXNativeTarget "Egg_timerUITests" */;
+			buildPhases = (
+				B7A6F6442CCC7F8200097D75 /* Sources */,
+				B7A6F6452CCC7F8200097D75 /* Frameworks */,
+				B7A6F6462CCC7F8200097D75 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B7A6F64A2CCC7F8200097D75 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B7A6F64B2CCC7F8200097D75 /* Egg_timerUITests */,
+			);
+			name = Egg_timerUITests;
+			packageProductDependencies = (
+			);
+			productName = Egg_timerUITests;
+			productReference = B7A6F6482CCC7F8200097D75 /* Egg_timerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B7A6F6202CCC7F7F00097D75 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					B7A6F6272CCC7F8000097D75 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					B7A6F63D2CCC7F8200097D75 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = B7A6F6272CCC7F8000097D75;
+					};
+					B7A6F6472CCC7F8200097D75 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = B7A6F6272CCC7F8000097D75;
+					};
+				};
+			};
+			buildConfigurationList = B7A6F6232CCC7F7F00097D75 /* Build configuration list for PBXProject "Egg_timer" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B7A6F61F2CCC7F7F00097D75;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = B7A6F6292CCC7F8000097D75 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B7A6F6272CCC7F8000097D75 /* Egg_timer */,
+				B7A6F63D2CCC7F8200097D75 /* Egg_timerTests */,
+				B7A6F6472CCC7F8200097D75 /* Egg_timerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B7A6F6262CCC7F8000097D75 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7A6F63C2CCC7F8200097D75 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7A6F6462CCC7F8200097D75 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B7A6F6242CCC7F8000097D75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7A6F63A2CCC7F8200097D75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7A6F6442CCC7F8200097D75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B7A6F6402CCC7F8200097D75 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B7A6F6272CCC7F8000097D75 /* Egg_timer */;
+			targetProxy = B7A6F63F2CCC7F8200097D75 /* PBXContainerItemProxy */;
+		};
+		B7A6F64A2CCC7F8200097D75 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B7A6F6272CCC7F8000097D75 /* Egg_timer */;
+			targetProxy = B7A6F6492CCC7F8200097D75 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		B7A6F6522CCC7F8200097D75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Egg_timer/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ganiya.Egg-timer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B7A6F6532CCC7F8200097D75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Egg_timer/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ganiya.Egg-timer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		B7A6F6542CCC7F8200097D75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B7A6F6552CCC7F8200097D75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B7A6F6572CCC7F8200097D75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ganiya.Egg-timerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Egg_timer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Egg_timer";
+			};
+			name = Debug;
+		};
+		B7A6F6582CCC7F8200097D75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ganiya.Egg-timerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Egg_timer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Egg_timer";
+			};
+			name = Release;
+		};
+		B7A6F65A2CCC7F8200097D75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ganiya.Egg-timerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Egg_timer;
+			};
+			name = Debug;
+		};
+		B7A6F65B2CCC7F8200097D75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ganiya.Egg-timerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Egg_timer;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B7A6F6232CCC7F7F00097D75 /* Build configuration list for PBXProject "Egg_timer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B7A6F6542CCC7F8200097D75 /* Debug */,
+				B7A6F6552CCC7F8200097D75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B7A6F6512CCC7F8200097D75 /* Build configuration list for PBXNativeTarget "Egg_timer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B7A6F6522CCC7F8200097D75 /* Debug */,
+				B7A6F6532CCC7F8200097D75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B7A6F6562CCC7F8200097D75 /* Build configuration list for PBXNativeTarget "Egg_timerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B7A6F6572CCC7F8200097D75 /* Debug */,
+				B7A6F6582CCC7F8200097D75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B7A6F6592CCC7F8200097D75 /* Build configuration list for PBXNativeTarget "Egg_timerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B7A6F65A2CCC7F8200097D75 /* Debug */,
+				B7A6F65B2CCC7F8200097D75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B7A6F6202CCC7F7F00097D75 /* Project object */;
+}
